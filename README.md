@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrei Tazetdino @ataztech910
+- 👋 Hi, I’m Andrei Tazetdinov @ataztech910
 - 👀 I’m interested in frontend and mobile applications with Javascript
 - 🌱 I’m currently learning AWS and Python automation with containers
 - 💞️ I’m looking to collaborate on creating a tools for software developers
