@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrei Tazetdinov @ataztech910
-- 👀 I’m interested in frontend and mobile applications with Javascript
-- 🌱 I’m currently learning AWS and Python automation with Docker containers
+- 👀 I’m interested in frontent freelance jobs
+- 🌱 I’m passionate in AWS Amplify
 - 💞️ I’m looking to collaborate on creating a tools for software developers
 - 📫 How to reach me: just reach me in https://www.linkedin.com/in/andrei-tazetdinov-9710bb6a/
 
