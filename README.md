@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Andrei and I'm a Next.js developer from Austria</h2>
+<h2 align="left">Hi 👋! My name is Andrei and I'm a React | ReactNAtive developer</h2>
 
 ###
 
