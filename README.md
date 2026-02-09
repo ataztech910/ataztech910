@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Andrei and I'm a React | ReactNative developer</h2>
+<h2 align="left">Hi 👋! My name is Andrei and  I’m a passionate and results-driven Full Stack Developer with extensive experience in creating scalable, robust, and high-performance applications.</h2>
 
 ###
 
